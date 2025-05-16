@@ -3,6 +3,8 @@
 A simple web application that allows users to track their expenses and calculate key financial indicators.
 
 ![image](https://github.com/user-attachments/assets/5a35730f-4f8d-4a6d-aa96-741439e2dde0)
+![image](https://github.com/user-attachments/assets/8e9aa1ec-b13b-4d36-9836-182dd0265f59)
+
 
 
 ## Features
